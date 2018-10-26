@@ -1,0 +1,56 @@
+* {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin: 0px;
+}
+
+body {
+  background-color: black;
+}
+
+header {
+  background-color: rgb(112, 128, 143);
+}
+
+main {
+  background-color: white;
+  border-radius: 30px;
+  padding: 15px;
+  margin: 10px;
+}
+
+img#logo {
+  width: 280px;
+  height: 140px;
+}
+
+h1 {
+  font-size: 16pt;
+  letter-spacing: 0.4em;
+}
+
+hr {
+  color: rgb(215, 138, 77);
+}
+
+p {
+  margin: 13px;
+}
+td {
+  padding: 10px;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.product-box {
+  background-color: rgb(255, 138, 77);
+  margin: 15px;
+  padding: 10px;
+  border-radius: 15px;
+  width: 180px;
+}
+
+.centered {
+  text-align: center;
+}
